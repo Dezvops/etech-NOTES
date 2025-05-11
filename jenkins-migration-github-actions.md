@@ -139,3 +139,4 @@ Example for Slack:
 # Welcome to Etech Consulting Devops MasterClass
 Trying to add Jenkins vs GitHub files to repo
 Just added this line for verificstion purposes
+Hello
